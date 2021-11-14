@@ -1,6 +1,6 @@
 👋👋👋👋👋
 - 👋 Hi, I’m Huy
-- 👀 I’m interested in ML
+- 👀 I’m interested in ML, DL
 - 📫 Email: <huysk82000@gmail.com>
 
 <!---
