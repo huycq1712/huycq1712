@@ -1,17 +1,26 @@
 
-# <div style="text-align:center">Welcome to my github profile</div>
+<div style="text-align:center">
+    <h1>Welcome to my github profile</h1>
+</div>
 
 ## Cat image for you 😺😺😺
 
 ![cat](/src/IMG_20230902_165952_919.jpg)
 
-# <div style="text-align:center">  About me </div>
+<div style="text-align:center"> 
+    <h1>About me</h1>
+</div>
+
 - My name is Huy
 - I'm a Artificial Intelligence Engineer 
 - I'm currently working at Hanoi, Vietnam
 - My research interests include Computer Vision, Optical Character Recognition, Graph Neural Network, and Deep Learning in general.
 
-# <div style="text-align:center">Languages and Tools</div>
+<div style="text-align:center"> 
+    <h1>
+    Languages and Tools
+    </h1>
+</div>
 
 ![Programing languages](https://img.shields.io/badge/-Programming-000?&logo=Programming) 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
@@ -45,9 +54,17 @@
 
 # <div style="text-align:center">Connect with me</div>
 
-
-![[huycq](https://www.linkedin.com/in/huyqcan1712/)](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)
-![[huycq](huysk82000@gmail.com)](https://img.shields.io/badge/-Gmail-000?&logo=Gmail)
+<p align="center">
+  <a href="https://www.linkedin.com/in/huyqcan1712/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://github.com/huycq1712" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+  <a href="mailto:huysk82000@gmail.com" alt="Email">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
+</p>
 <!---
 huycq1712/huycq1712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
