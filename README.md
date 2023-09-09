@@ -1,6 +1,6 @@
 
 <div style="text-align:center">
-    <h1>Welcome to my github profile</h1>
+    <h1  align="center">🤗 Welcome to my github profile 🤗</h1>
 </div>
 
 ## Cat image for you 😺😺😺
@@ -8,17 +8,17 @@
 ![cat](/src/IMG_20230902_165952_919.jpg)
 
 <div style="text-align:center"> 
-    <h1>About me</h1>
+    <h1 align="center">About me 😀</h1>
 </div>
 
-- My name is Huy
-- I'm a Artificial Intelligence Engineer 
-- I'm currently working at Hanoi, Vietnam
-- My research interests include Computer Vision, Optical Character Recognition, Graph Neural Network, and Deep Learning in general.
+- 🤠 My name is Huy
+- 🤖 I'm a Artificial Intelligence Engineer 
+- 🇻🇳 I'm currently working at Hanoi, Vietnam
+- 👁️‍🗨️ My research interests include Computer Vision, Optical Character Recognition, Graph Neural Network, and Deep Learning in general.
 
 <div style="text-align:center"> 
-    <h1>
-    Languages and Tools
+    <h1 align="center">
+    Languages and Tools 💻
     </h1>
 </div>
 
@@ -52,7 +52,9 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-000?&logo=Eclipse)
 ![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim)
 
-# <div style="text-align:center">Connect with me</div>
+<div style="text-align:center">
+<h1  align="cente"r>Connect with me 📬</h1>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/huyqcan1712/" target="_blank">
